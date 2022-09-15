@@ -38,7 +38,7 @@ Many of the decisions that we put into this website were made to give it an upsc
 
 We wanted to build a website that was fairly simple in structure yet big in language. You'll notice that André D'Avis never refers to itself in the third person, and often the staff are called "specialists" and the customers are called "patrons". This was to enhance the air of confidence and class provided by the project.
 
-## Optimizations
+## Optimizations:
 
 If we had more time, we would create a login with a member's only zone. In addition, we would include members pricing on the services page.
 
